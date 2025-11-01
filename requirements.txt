@@ -1,0 +1,3 @@
+streamlit
+sqlalchemy
+mysqlclient # 또는 pymysql (Streamlit Cloud 환경에서는 mysqlclient가 더 자주 사용됨)
